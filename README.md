@@ -17,7 +17,7 @@ Both should be installed and make sure mongodb is running.
 
 #### First Method
 ```shell
-git clone https://laxmiraj09/chat-application
+git clone https://Sujan743/chat-application
 cd chat-application
 ```
 Now rename env files from .env.example to .env
